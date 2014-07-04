@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
+  "name": "ommch",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "Olimpiada Mexicana de Matematicas en Chihuahua",
+  "repository": "https://github.com/iwakuraisa/ommch",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
