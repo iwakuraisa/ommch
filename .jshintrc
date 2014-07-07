@@ -1,6 +1,39 @@
 {
-  "globalstrict": true,
-  "globals": {
-    "angular": false
-  }
+    "indent"        : 4,
+    "globals": {
+        "angular": false
+    },
+
+    "passfail": false,
+    "maxerr": 100,
+    
+    "browser"       : true,
+    "wsh"           : true,
+ 
+    "jquery"        : true,
+ 
+    "bitwise"       : true,
+    "boss"          : false,
+    "curly"         : true,
+    "eqeqeq"        : false, 
+    "eqnull"        : false,
+    "evil"          : false,
+    "expr"          : false,
+    "forin"         : false,
+    "immed"         : true,
+    "latedef"       : true,
+    "loopfunc"      : false,
+    "noarg"         : true,
+    "regexp"        : true,
+    "regexdash"     : false,
+    "scripturl"     : true,
+    "shadow"        : false,
+    "supernew"      : false,
+    "undef"         : true,
+    "newcap"        : true,
+    "noempty"       : true,
+    "plusplus"      : true,
+    "sub"           : false,
+    "trailing"      : true,
+    "white"         : true
 }
